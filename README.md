@@ -1,6 +1,6 @@
 Only For Educational Purpose
 
-Subway Surfer iOS 4 Port
+Subway Surfer iOS 3.1.3 to iOS 4 Port
 
 this project started when I buyed a iPod touch 2G
 
