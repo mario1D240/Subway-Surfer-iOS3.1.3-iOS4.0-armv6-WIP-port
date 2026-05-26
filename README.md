@@ -2,15 +2,15 @@ Only For Educational Purpose
 
 Subway Surfer iOS 3.1.3 to iOS 4 Port
 
-this project started when I buyed a iPod touch 2G
+this project started when I buyed a iPod touch 2G(HK$10 dollar,sound crazy)
 
 Used tool：
 
-asstesripper
+assetripper
 
 unity 3.5.5 on mac os 10.6.3
 
-xccoe 3.2.4 on mac os 10.6.3
+xcode 3.2.4 on mac os 10.6.3
 
 Features:
 
@@ -19,6 +19,7 @@ Support OpenGL ES 1.1
 Support armv6 + armv7
 
 Current Status:
+v1.0.5 fixed most of the sound effects and fonts,improved performance.Fixed savedata
 
 v0.4 fixed texture missing issues 
 
