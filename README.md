@@ -1,6 +1,6 @@
 Only For Educational Purpose
 
-Subway Surfer iOS 3.0 to iOS 4.2.1+ Port
+Subway Surfer iOS 3.1.3 to iOS 4.2.1+ Port(ios 3.0 to ios 3.1.2 still testing
 
 this project started when I buyed a iPod touch 2G(HK$10 dollar,sound crazy)
 
